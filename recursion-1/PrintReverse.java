@@ -1,4 +1,4 @@
-class Solution{
+class PrintReverse{
     public static void printReserve(String str) {
         helper(str, 0);
     }
